@@ -1,0 +1,11 @@
+Model Information:
+* title:	Demon Bust Sculpt
+* source:	https://sketchfab.com/3d-models/demon-bust-sculpt-6b6c5d645c2b4d63b9ee923a2fc893cb
+* author:	Patryk Ciecierski (https://sketchfab.com/theexkaiser)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Demon Bust Sculpt" (https://sketchfab.com/3d-models/demon-bust-sculpt-6b6c5d645c2b4d63b9ee923a2fc893cb) by Patryk Ciecierski (https://sketchfab.com/theexkaiser) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
